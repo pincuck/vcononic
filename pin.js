@@ -1,4 +1,3 @@
- +1,198 @@
 const fetch = require("node-fetch");
 const readlineSync = require("readline-sync");
 const cheerio = require("cheerio");
